@@ -1,0 +1,433 @@
+﻿Year,Job Role,Employment Category,Work Type,Gross Pay Men,Gross Pay Women,Gender Pay Gap,Pay Gap Percentage
+2023," Executives, senior managers",Self Employed,Full Time,100000,76200,23800,23.8
+2023, Academic/scientific professions,Self Employed,Full Time,120000,90000,30000,25
+2023, Intermediate professions,Self Employed,Full Time,89300,69100,20200,22.62038074
+2023, Administrative staff,Self Employed,Full Time,70900,67500,3400,4.795486601
+2023, Service and sales staff,Self Employed,Full Time,60000,54000,6000,10
+2023, Farmers,Self Employed,Full Time,63700,35000,28700,45.05494505
+2023, Craftsmen and skilled workers,Self Employed,Full Time,77800,60000,17800,22.87917738
+2023, Drivers and fitters,Self Employed,Full Time,68300,54300,14000,20.49780381
+2023, Unskilled workers,Self Employed,Full Time,61300,52100,9200,15.00815661
+2023," Executives, senior managers",Self Employed,Part Time,32000,45400,-13400,-41.875
+2023, Academic/scientific professions,Self Employed,Part Time,52000,45400,6600,12.69230769
+2023, Intermediate professions,Self Employed,Part Time,46800,30400,16400,35.04273504
+2023, Administrative staff,Self Employed,Part Time,30700,33800,-3100,-10.09771987
+2023, Service and sales staff,Self Employed,Part Time,32000,25500,6500,20.3125
+2023, Farmers,Self Employed,Part Time,25500,20400,5100,20
+2023, Craftsmen and skilled workers,Self Employed,Part Time,32000,20000,12000,37.5
+2023, Drivers and fitters,Self Employed,Part Time,44000,38000,6000,13.63636364
+2023, Unskilled workers,Self Employed,Part Time,43300,26400,16900,39.03002309
+2023," Executives, senior managers",Employees,Full Time,136000,118900,17100,12.57352941
+2023, Academic/scientific professions,Employees,Full Time,118000,96000,22000,18.6440678
+2023, Intermediate professions,Employees,Full Time,95200,78500,16700,17.54201681
+2023, Administrative staff,Employees,Full Time,83000,73200,9800,11.80722892
+2023, Service and sales staff,Employees,Full Time,69600,57200,12400,17.81609195
+2023, Farmers,Employees,Full Time,67500,61700,5800,8.592592593
+2023, Craftsmen and skilled workers,Employees,Full Time,75400,65000,10400,13.79310345
+2023, Drivers and fitters,Employees,Full Time,74100,58800,15300,20.64777328
+2023, Unskilled workers,Employees,Full Time,65500,52600,12900,19.69465649
+2023," Executives, senior managers",Employees,Part Time,74400,67900,6500,8.73655914
+2023, Academic/scientific professions,Employees,Part Time,72600,60000,12600,17.3553719
+2023, Intermediate professions,Employees,Part Time,58700,49100,9600,16.35434412
+2023, Administrative staff,Employees,Part Time,42000,42900,-900,-2.142857143
+2023, Service and sales staff,Employees,Part Time,25700,28500,-2800,-10.89494163
+2023, Farmers,Employees,Part Time,30000,18100,11900,39.66666667
+2023, Craftsmen and skilled workers,Employees,Part Time,51900,36400,15500,29.86512524
+2023, Drivers and fitters,Employees,Part Time,34500,27000,7500,21.73913043
+2023, Unskilled workers,Employees,Part Time,20800,19200,1600,7.692307692
+2022," Executives, senior managers",Self Employed,Full Time,90000,68500,21500,23.88888889
+2022, Academic/scientific professions,Self Employed,Full Time,112000,80000,32000,28.57142857
+2022, Intermediate professions,Self Employed,Full Time,80000,57600,22400,28
+2022, Administrative staff,Self Employed,Full Time,60100,58500,1600,2.662229617
+2022, Service and sales staff,Self Employed,Full Time,60000,48000,12000,20
+2022, Farmers,Self Employed,Full Time,60000,36000,24000,40
+2022, Craftsmen and skilled workers,Self Employed,Full Time,69100,47800,21300,30.82489146
+2022, Drivers and fitters,Self Employed,Full Time,56400,,56400,
+2022, Unskilled workers,Self Employed,Full Time,57500,45600,11900,20.69565217
+2022," Executives, senior managers",Self Employed,Part Time,36000,24300,11700,32.5
+2022, Academic/scientific professions,Self Employed,Part Time,49600,37500,12100,24.39516129
+2022, Intermediate professions,Self Employed,Part Time,25000,28800,-3800,-15.2
+2022, Administrative staff,Self Employed,Part Time,39500,19200,20300,51.39240506
+2022, Service and sales staff,Self Employed,Part Time,26000,19000,7000,26.92307692
+2022, Farmers,Self Employed,Part Time,40000,32000,8000,20
+2022, Craftsmen and skilled workers,Self Employed,Part Time,38700,19000,19700,50.90439276
+2022, Drivers and fitters,Self Employed,Part Time,26800,6400,20400,76.11940299
+2022, Unskilled workers,Self Employed,Part Time,20800,15000,5800,27.88461538
+2022," Executives, senior managers",Employees,Full Time,135000,112500,22500,16.66666667
+2022, Academic/scientific professions,Employees,Full Time,112600,92600,20000,17.76198934
+2022, Intermediate professions,Employees,Full Time,94900,78000,16900,17.80821918
+2022, Administrative staff,Employees,Full Time,81000,71600,9400,11.60493827
+2022, Service and sales staff,Employees,Full Time,69000,55900,13100,18.98550725
+2022, Farmers,Employees,Full Time,67600,58800,8800,13.01775148
+2022, Craftsmen and skilled workers,Employees,Full Time,72800,60900,11900,16.34615385
+2022, Drivers and fitters,Employees,Full Time,72800,58400,14400,19.78021978
+2022, Unskilled workers,Employees,Full Time,65100,52600,12500,19.20122888
+2022," Executives, senior managers",Employees,Part Time,78400,68200,10200,13.01020408
+2022, Academic/scientific professions,Employees,Part Time,70000,58200,11800,16.85714286
+2022, Intermediate professions,Employees,Part Time,58500,46800,11700,20
+2022, Administrative staff,Employees,Part Time,39600,43000,-3400,-8.585858586
+2022, Service and sales staff,Employees,Part Time,28500,28600,-100,-0.350877193
+2022, Farmers,Employees,Part Time,39000,22100,16900,43.33333333
+2022, Craftsmen and skilled workers,Employees,Part Time,51600,33800,17800,34.49612403
+2022, Drivers and fitters,Employees,Part Time,26600,26800,-200,-0.751879699
+2022, Unskilled workers,Employees,Part Time,19500,19500,,
+2021," Executives, senior managers",Self Employed,Full Time,100000,68400,31600,31.6
+2021, Academic/scientific professions,Self Employed,Full Time,114800,86500,28300,24.65156794
+2021, Intermediate professions,Self Employed,Full Time,90000,66500,23500,26.11111111
+2021, Administrative staff,Self Employed,Full Time,71900,69700,2200,3.059805285
+2021, Service and sales staff,Self Employed,Full Time,60000,51300,8700,14.5
+2021, Farmers,Self Employed,Full Time,65000,36000,29000,44.61538462
+2021, Craftsmen and skilled workers,Self Employed,Full Time,73300,53300,20000,27.2851296
+2021, Drivers and fitters,Self Employed,Full Time,60000,53700,6300,10.5
+2021, Unskilled workers,Self Employed,Full Time,65000,49500,15500,23.84615385
+2021," Executives, senior managers",Self Employed,Part Time,52300,32500,19800,37.8585086
+2021, Academic/scientific professions,Self Employed,Part Time,45600,40000,5600,12.28070175
+2021, Intermediate professions,Self Employed,Part Time,36400,31200,5200,14.28571429
+2021, Administrative staff,Self Employed,Part Time,24000,30700,-6700,-27.91666667
+2021, Service and sales staff,Self Employed,Part Time,32000,19000,13000,40.625
+2021, Farmers,Self Employed,Part Time,30700,24000,6700,21.82410423
+2021, Craftsmen and skilled workers,Self Employed,Part Time,34800,13700,21100,60.63218391
+2021, Drivers and fitters,Self Employed,Part Time,32900,,32900,
+2021, Unskilled workers,Self Employed,Part Time,32500,19000,13500,41.53846154
+2021," Executives, senior managers",Employees,Full Time,132000,110000,22000,16.66666667
+2021, Academic/scientific professions,Employees,Full Time,111200,91200,20000,17.98561151
+2021, Intermediate professions,Employees,Full Time,94200,77000,17200,18.25902335
+2021, Administrative staff,Employees,Full Time,82100,72000,10100,12.30207065
+2021, Service and sales staff,Employees,Full Time,69400,56600,12800,18.44380403
+2021, Farmers,Employees,Full Time,65500,54900,10600,16.18320611
+2021, Craftsmen and skilled workers,Employees,Full Time,74200,60800,13400,18.05929919
+2021, Drivers and fitters,Employees,Full Time,72800,61000,11800,16.20879121
+2021, Unskilled workers,Employees,Full Time,65000,52000,13000,20
+2021," Executives, senior managers",Employees,Part Time,75400,68600,6800,9.018567639
+2021, Academic/scientific professions,Employees,Part Time,66200,55900,10300,15.55891239
+2021, Intermediate professions,Employees,Part Time,58500,46200,12300,21.02564103
+2021, Administrative staff,Employees,Part Time,37700,42900,-5200,-13.79310345
+2021, Service and sales staff,Employees,Part Time,26700,27400,-700,-2.621722846
+2021, Farmers,Employees,Part Time,36600,46600,-10000,-27.32240437
+2021, Craftsmen and skilled workers,Employees,Part Time,50500,30100,20400,40.3960396
+2021, Drivers and fitters,Employees,Part Time,28100,24000,4100,14.59074733
+2021, Unskilled workers,Employees,Part Time,19400,19200,200,1.030927835
+2020," Executives, senior managers",Self Employed,Full Time,104200,66000,38200,36.66026871
+2020, Academic/scientific professions,Self Employed,Full Time,108000,90000,18000,16.66666667
+2020, Intermediate professions,Self Employed,Full Time,90800,65000,25800,28.41409692
+2020, Administrative staff,Self Employed,Full Time,86000,69400,16600,19.30232558
+2020, Service and sales staff,Self Employed,Full Time,60000,45600,14400,24
+2020, Farmers,Self Employed,Full Time,60000,32000,28000,46.66666667
+2020, Craftsmen and skilled workers,Self Employed,Full Time,78000,48000,30000,38.46153846
+2020, Drivers and fitters,Self Employed,Full Time,70000,,70000,
+2020, Unskilled workers,Self Employed,Full Time,75100,47200,27900,37.15046605
+2020," Executives, senior managers",Self Employed,Part Time,54600,43700,10900,19.96336996
+2020, Academic/scientific professions,Self Employed,Part Time,52700,36000,16700,31.68880455
+2020, Intermediate professions,Self Employed,Part Time,42500,24000,18500,43.52941176
+2020, Administrative staff,Self Employed,Part Time,27000,29300,-2300,-8.518518519
+2020, Service and sales staff,Self Employed,Part Time,21200,19000,2200,10.37735849
+2020, Farmers,Self Employed,Part Time,31100,24000,7100,22.82958199
+2020, Craftsmen and skilled workers,Self Employed,Part Time,33800,12000,21800,64.49704142
+2020, Drivers and fitters,Self Employed,Part Time,43200,,43200,
+2020, Unskilled workers,Self Employed,Part Time,,18300,-18300,
+2020," Executives, senior managers",Employees,Full Time,130000,107300,22700,17.46153846
+2020, Academic/scientific professions,Employees,Full Time,113400,90000,23400,20.63492063
+2020, Intermediate professions,Employees,Full Time,93800,76600,17200,18.33688699
+2020, Administrative staff,Employees,Full Time,81800,72000,9800,11.9804401
+2020, Service and sales staff,Employees,Full Time,70000,56700,13300,19
+2020, Farmers,Employees,Full Time,62700,58100,4600,7.336523126
+2020, Craftsmen and skilled workers,Employees,Full Time,75000,60000,15000,20
+2020, Drivers and fitters,Employees,Full Time,73500,60000,13500,18.36734694
+2020, Unskilled workers,Employees,Full Time,62400,51500,10900,17.46794872
+2020," Executives, senior managers",Employees,Part Time,73300,65000,8300,11.32332879
+2020, Academic/scientific professions,Employees,Part Time,71500,56300,15200,21.25874126
+2020, Intermediate professions,Employees,Part Time,55900,46500,9400,16.8157424
+2020, Administrative staff,Employees,Part Time,40300,42000,-1700,-4.218362283
+2020, Service and sales staff,Employees,Part Time,26300,26600,-300,-1.140684411
+2020, Farmers,Employees,Part Time,35800,29700,6100,17.03910615
+2020, Craftsmen and skilled workers,Employees,Part Time,48000,31000,17000,35.41666667
+2020, Drivers and fitters,Employees,Part Time,30000,24700,5300,17.66666667
+2020, Unskilled workers,Employees,Part Time,20300,14400,5900,29.06403941
+2019," Executives, senior managers",Self Employed,Full Time,94100,70000,24100,25.61105207
+2019, Academic/scientific professions,Self Employed,Full Time,114900,84000,30900,26.89295039
+2019, Intermediate professions,Self Employed,Full Time,94100,66400,27700,29.43676939
+2019, Administrative staff,Self Employed,Full Time,75600,72000,3600,4.761904762
+2019, Service and sales staff,Self Employed,Full Time,65000,50400,14600,22.46153846
+2019, Farmers,Self Employed,Full Time,60000,31900,28100,46.83333333
+2019, Craftsmen and skilled workers,Self Employed,Full Time,80000,40000,40000,50
+2019, Drivers and fitters,Self Employed,Full Time,67200,,67200,
+2019, Unskilled workers,Self Employed,Full Time,56100,48000,8100,14.43850267
+2019," Executives, senior managers",Self Employed,Part Time,55900,44300,11600,20.75134168
+2019, Academic/scientific professions,Self Employed,Part Time,47800,38600,9200,19.24686192
+2019, Intermediate professions,Self Employed,Part Time,40000,30700,9300,23.25
+2019, Administrative staff,Self Employed,Part Time,37900,30400,7500,19.78891821
+2019, Service and sales staff,Self Employed,Part Time,35200,19000,16200,46.02272727
+2019, Farmers,Self Employed,Part Time,30900,21200,9700,31.39158576
+2019, Craftsmen and skilled workers,Self Employed,Part Time,35200,20500,14700,41.76136364
+2019, Drivers and fitters,Self Employed,Part Time,30000,24000,6000,20
+2019, Unskilled workers,Self Employed,Part Time,30400,23800,6600,21.71052632
+2019," Executives, senior managers",Employees,Full Time,130000,106300,23700,18.23076923
+2019, Academic/scientific professions,Employees,Full Time,112000,89900,22100,19.73214286
+2019, Intermediate professions,Employees,Full Time,94500,78000,16500,17.46031746
+2019, Administrative staff,Employees,Full Time,78000,70900,7100,9.102564103
+2019, Service and sales staff,Employees,Full Time,68800,55800,13000,18.89534884
+2019, Farmers,Employees,Full Time,67600,55300,12300,18.19526627
+2019, Craftsmen and skilled workers,Employees,Full Time,74100,59700,14400,19.43319838
+2019, Drivers and fitters,Employees,Full Time,71500,58100,13400,18.74125874
+2019, Unskilled workers,Employees,Full Time,61700,49600,12100,19.61102107
+2019," Executives, senior managers",Employees,Part Time,68100,61600,6500,9.544787078
+2019, Academic/scientific professions,Employees,Part Time,70200,54700,15500,22.07977208
+2019, Intermediate professions,Employees,Part Time,53000,44400,8600,16.22641509
+2019, Administrative staff,Employees,Part Time,42000,41200,800,1.904761905
+2019, Service and sales staff,Employees,Part Time,27100,26700,400,1.47601476
+2019, Farmers,Employees,Part Time,39600,27200,12400,31.31313131
+2019, Craftsmen and skilled workers,Employees,Part Time,44200,29300,14900,33.71040724
+2019, Drivers and fitters,Employees,Part Time,32400,30400,2000,6.172839506
+2019, Unskilled workers,Employees,Part Time,18900,15000,3900,20.63492063
+2018," Executives, senior managers",Self Employed,Full Time,90000,52000,38000,42.22222222
+2018, Academic/scientific professions,Self Employed,Full Time,120000,78000,42000,35
+2018, Intermediate professions,Self Employed,Full Time,87800,60000,27800,31.66287016
+2018, Administrative staff,Self Employed,Full Time,75400,67500,7900,10.47745358
+2018, Service and sales staff,Self Employed,Full Time,70200,50000,20200,28.77492877
+2018, Farmers,Self Employed,Full Time,58600,31900,26700,45.56313993
+2018, Craftsmen and skilled workers,Self Employed,Full Time,72000,48000,24000,33.33333333
+2018, Drivers and fitters,Self Employed,Full Time,67500,,67500,
+2018, Unskilled workers,Self Employed,Full Time,68600,60000,8600,12.53644315
+2018," Executives, senior managers",Self Employed,Part Time,60000,36000,24000,40
+2018, Academic/scientific professions,Self Employed,Part Time,38600,38400,200,0.518134715
+2018, Intermediate professions,Self Employed,Part Time,31300,29100,2200,7.028753994
+2018, Administrative staff,Self Employed,Part Time,35500,29300,6200,17.46478873
+2018, Service and sales staff,Self Employed,Part Time,41600,21000,20600,49.51923077
+2018, Farmers,Self Employed,Part Time,30400,19000,11400,37.5
+2018, Craftsmen and skilled workers,Self Employed,Part Time,23200,15800,7400,31.89655172
+2018, Drivers and fitters,Self Employed,Part Time,30000,21000,9000,30
+2018, Unskilled workers,Self Employed,Part Time,19000,13900,5100,26.84210526
+2018," Executives, senior managers",Employees,Full Time,129600,100000,29600,22.83950617
+2018, Academic/scientific professions,Employees,Full Time,110500,89700,20800,18.82352941
+2018, Intermediate professions,Employees,Full Time,94900,75400,19500,20.54794521
+2018, Administrative staff,Employees,Full Time,77000,70200,6800,8.831168831
+2018, Service and sales staff,Employees,Full Time,68900,54600,14300,20.75471698
+2018, Farmers,Employees,Full Time,65400,54000,11400,17.43119266
+2018, Craftsmen and skilled workers,Employees,Full Time,72800,56800,16000,21.97802198
+2018, Drivers and fitters,Employees,Full Time,71500,54600,16900,23.63636364
+2018, Unskilled workers,Employees,Full Time,63500,48000,15500,24.40944882
+2018," Executives, senior managers",Employees,Part Time,71500,61000,10500,14.68531469
+2018, Academic/scientific professions,Employees,Part Time,71500,55800,15700,21.95804196
+2018, Intermediate professions,Employees,Part Time,52000,45000,7000,13.46153846
+2018, Administrative staff,Employees,Part Time,42800,41600,1200,2.803738318
+2018, Service and sales staff,Employees,Part Time,27300,26200,1100,4.029304029
+2018, Farmers,Employees,Part Time,30000,26300,3700,12.33333333
+2018, Craftsmen and skilled workers,Employees,Part Time,41400,28500,12900,31.15942029
+2018, Drivers and fitters,Employees,Part Time,24300,28000,-3700,-15.22633745
+2018, Unskilled workers,Employees,Part Time,16400,16900,-500,-3.048780488
+2017," Executives, senior managers",Self Employed,Full Time,98100,65400,32700,33.33333333
+2017, Academic/scientific professions,Self Employed,Full Time,127200,80000,47200,37.10691824
+2017, Intermediate professions,Self Employed,Full Time,88300,55000,33300,37.71234428
+2017, Administrative staff,Self Employed,Full Time,91300,66400,24900,27.27272727
+2017, Service and sales staff,Self Employed,Full Time,65000,47400,17600,27.07692308
+2017, Farmers,Self Employed,Full Time,55000,38600,16400,29.81818182
+2017, Craftsmen and skilled workers,Self Employed,Full Time,73800,47400,26400,35.77235772
+2017, Drivers and fitters,Self Employed,Full Time,60000,,60000,
+2017, Unskilled workers,Self Employed,Full Time,68900,62200,6700,9.724238026
+2017," Executives, senior managers",Self Employed,Part Time,54100,40000,14100,26.06284658
+2017, Academic/scientific professions,Self Employed,Part Time,50000,41600,8400,16.8
+2017, Intermediate professions,Self Employed,Part Time,34500,31200,3300,9.565217391
+2017, Administrative staff,Self Employed,Part Time,60900,26000,34900,57.30706076
+2017, Service and sales staff,Self Employed,Part Time,36000,23000,13000,36.11111111
+2017, Farmers,Self Employed,Part Time,25400,25200,200,0.787401575
+2017, Craftsmen and skilled workers,Self Employed,Part Time,36000,20500,15500,43.05555556
+2017, Drivers and fitters,Self Employed,Part Time,24400,30700,-6300,-25.81967213
+2017, Unskilled workers,Self Employed,Part Time,13700,25400,-11700,-85.40145985
+2017," Executives, senior managers",Employees,Full Time,129300,106300,23000,17.78808971
+2017, Academic/scientific professions,Employees,Full Time,110000,88000,22000,20
+2017, Intermediate professions,Employees,Full Time,94800,74000,20800,21.94092827
+2017, Administrative staff,Employees,Full Time,78000,70200,7800,10
+2017, Service and sales staff,Employees,Full Time,69200,55000,14200,20.52023121
+2017, Farmers,Employees,Full Time,64200,53300,10900,16.97819315
+2017, Craftsmen and skilled workers,Employees,Full Time,71900,58500,13400,18.63699583
+2017, Drivers and fitters,Employees,Full Time,71500,54300,17200,24.05594406
+2017, Unskilled workers,Employees,Full Time,60000,49400,10600,17.66666667
+2017," Executives, senior managers",Employees,Part Time,70700,57200,13500,19.09476662
+2017, Academic/scientific professions,Employees,Part Time,67500,54600,12900,19.11111111
+2017, Intermediate professions,Employees,Part Time,52800,44400,8400,15.90909091
+2017, Administrative staff,Employees,Part Time,39500,41600,-2100,-5.316455696
+2017, Service and sales staff,Employees,Part Time,24500,27300,-2800,-11.42857143
+2017, Farmers,Employees,Part Time,33800,26000,7800,23.07692308
+2017, Craftsmen and skilled workers,Employees,Part Time,45500,25800,19700,43.2967033
+2017, Drivers and fitters,Employees,Part Time,31700,20000,11700,36.90851735
+2017, Unskilled workers,Employees,Part Time,21600,15600,6000,27.77777778
+2016," Executives, senior managers",Self Employed,Full Time,97500,60000,37500,38.46153846
+2016, Academic/scientific professions,Self Employed,Full Time,120000,81600,38400,32
+2016, Intermediate professions,Self Employed,Full Time,87500,59800,27700,31.65714286
+2016, Administrative staff,Self Employed,Full Time,92300,68700,23600,25.5687974
+2016, Service and sales staff,Self Employed,Full Time,60000,45500,14500,24.16666667
+2016, Farmers,Self Employed,Full Time,55100,36000,19100,34.66424682
+2016, Craftsmen and skilled workers,Self Employed,Full Time,73500,45500,28000,38.0952381
+2016, Drivers and fitters,Self Employed,Full Time,60000,42200,17800,29.66666667
+2016, Unskilled workers,Self Employed,Full Time,77500,45500,32000,41.29032258
+2016," Executives, senior managers",Self Employed,Part Time,45400,40500,4900,10.79295154
+2016, Academic/scientific professions,Self Employed,Part Time,52600,40000,12600,23.95437262
+2016, Intermediate professions,Self Employed,Part Time,24000,30800,-6800,-28.33333333
+2016, Administrative staff,Self Employed,Part Time,59200,27600,31600,53.37837838
+2016, Service and sales staff,Self Employed,Part Time,39600,21100,18500,46.71717172
+2016, Farmers,Self Employed,Part Time,29700,20400,9300,31.31313131
+2016, Craftsmen and skilled workers,Self Employed,Part Time,35000,12500,22500,64.28571429
+2016, Drivers and fitters,Self Employed,Part Time,33300,22900,10400,31.23123123
+2016, Unskilled workers,Self Employed,Part Time,26500,16000,10500,39.62264151
+2016," Executives, senior managers",Employees,Full Time,130000,108000,22000,16.92307692
+2016, Academic/scientific professions,Employees,Full Time,110000,87300,22700,20.63636364
+2016, Intermediate professions,Employees,Full Time,94000,73600,20400,21.70212766
+2016, Administrative staff,Employees,Full Time,79300,71500,7800,9.836065574
+2016, Service and sales staff,Employees,Full Time,70700,53300,17400,24.61103253
+2016, Farmers,Employees,Full Time,65000,55800,9200,14.15384615
+2016, Craftsmen and skilled workers,Employees,Full Time,72200,59600,12600,17.45152355
+2016, Drivers and fitters,Employees,Full Time,72200,53300,18900,26.17728532
+2016, Unskilled workers,Employees,Full Time,60900,49100,11800,19.37602627
+2016," Executives, senior managers",Employees,Part Time,73600,56800,16800,22.82608696
+2016, Academic/scientific professions,Employees,Part Time,69500,54000,15500,22.30215827
+2016, Intermediate professions,Employees,Part Time,54800,45500,9300,16.97080292
+2016, Administrative staff,Employees,Part Time,37400,41200,-3800,-10.16042781
+2016, Service and sales staff,Employees,Part Time,28200,26000,2200,7.80141844
+2016, Farmers,Employees,Part Time,18000,22100,-4100,-22.77777778
+2016, Craftsmen and skilled workers,Employees,Part Time,41500,26400,15100,36.38554217
+2016, Drivers and fitters,Employees,Part Time,30000,33400,-3400,-11.33333333
+2016, Unskilled workers,Employees,Part Time,20800,14800,6000,28.84615385
+2015," Executives, senior managers",Self Employed,Full Time,97500,61200,36300,37.23076923
+2015, Academic/scientific professions,Self Employed,Full Time,117000,77500,39500,33.76068376
+2015, Intermediate professions,Self Employed,Full Time,91000,70000,21000,23.07692308
+2015, Administrative staff,Self Employed,Full Time,100000,60000,40000,40
+2015, Service and sales staff,Self Employed,Full Time,62500,42000,20500,32.8
+2015, Farmers,Self Employed,Full Time,58000,30000,28000,48.27586207
+2015, Craftsmen and skilled workers,Self Employed,Full Time,73100,40400,32700,44.73324213
+2015, Drivers and fitters,Self Employed,Full Time,63300,69400,-6100,-9.636650869
+2015, Unskilled workers,Self Employed,Full Time,74100,47100,27000,36.43724696
+2015," Executives, senior managers",Self Employed,Part Time,48000,30600,17400,36.25
+2015, Academic/scientific professions,Self Employed,Part Time,52700,37100,15600,29.60151803
+2015, Intermediate professions,Self Employed,Part Time,37500,25000,12500,33.33333333
+2015, Administrative staff,Self Employed,Part Time,75000,30000,45000,60
+2015, Service and sales staff,Self Employed,Part Time,29700,19000,10700,36.02693603
+2015, Farmers,Self Employed,Part Time,45500,20400,25100,55.16483516
+2015, Craftsmen and skilled workers,Self Employed,Part Time,45500,15800,29700,65.27472527
+2015, Drivers and fitters,Self Employed,Part Time,31900,,31900,
+2015, Unskilled workers,Self Employed,Part Time,24000,15200,8800,36.66666667
+2015," Executives, senior managers",Employees,Full Time,130000,100000,30000,23.07692308
+2015, Academic/scientific professions,Employees,Full Time,111000,87700,23300,20.99099099
+2015, Intermediate professions,Employees,Full Time,94800,75000,19800,20.88607595
+2015, Administrative staff,Employees,Full Time,81300,71100,10200,12.54612546
+2015, Service and sales staff,Employees,Full Time,67500,53300,14200,21.03703704
+2015, Farmers,Employees,Full Time,62400,48100,14300,22.91666667
+2015, Craftsmen and skilled workers,Employees,Full Time,72200,57200,15000,20.77562327
+2015, Drivers and fitters,Employees,Full Time,71500,54600,16900,23.63636364
+2015, Unskilled workers,Employees,Full Time,63700,49400,14300,22.44897959
+2015," Executives, senior managers",Employees,Part Time,81700,58500,23200,28.39657283
+2015, Academic/scientific professions,Employees,Part Time,63700,54100,9600,15.07064364
+2015, Intermediate professions,Employees,Part Time,50200,45200,5000,9.960159363
+2015, Administrative staff,Employees,Part Time,44600,39000,5600,12.55605381
+2015, Service and sales staff,Employees,Part Time,22500,26000,-3500,-15.55555556
+2015, Farmers,Employees,Part Time,32700,26900,5800,17.73700306
+2015, Craftsmen and skilled workers,Employees,Part Time,45700,25000,20700,45.29540481
+2015, Drivers and fitters,Employees,Part Time,28100,32500,-4400,-15.65836299
+2015, Unskilled workers,Employees,Part Time,21100,14400,6700,31.7535545
+2014," Executives, senior managers",Self Employed,Full Time,98600,58800,39800,40.36511156
+2014, Academic/scientific professions,Self Employed,Full Time,120000,80000,40000,33.33333333
+2014, Intermediate professions,Self Employed,Full Time,86400,73100,13300,15.39351852
+2014, Administrative staff,Self Employed,Full Time,86400,60000,26400,30.55555556
+2014, Service and sales staff,Self Employed,Full Time,66400,45500,20900,31.47590361
+2014, Farmers,Self Employed,Full Time,60000,31900,28100,46.83333333
+2014, Craftsmen and skilled workers,Self Employed,Full Time,75000,43200,31800,42.4
+2014, Drivers and fitters,Self Employed,Full Time,63600,,63600,
+2014, Unskilled workers,Self Employed,Full Time,57600,42000,15600,27.08333333
+2014," Executives, senior managers",Self Employed,Part Time,63600,48000,15600,24.52830189
+2014, Academic/scientific professions,Self Employed,Part Time,56700,38000,18700,32.98059965
+2014, Intermediate professions,Self Employed,Part Time,44400,30000,14400,32.43243243
+2014, Administrative staff,Self Employed,Part Time,52600,30000,22600,42.96577947
+2014, Service and sales staff,Self Employed,Part Time,30700,18500,12200,39.73941368
+2014, Farmers,Self Employed,Part Time,31900,24000,7900,24.76489028
+2014, Craftsmen and skilled workers,Self Employed,Part Time,30000,20500,9500,31.66666667
+2014, Drivers and fitters,Self Employed,Part Time,31900,,31900,
+2014, Unskilled workers,Self Employed,Part Time,19000,17400,1600,8.421052632
+2014," Executives, senior managers",Employees,Full Time,128800,101300,27500,21.35093168
+2014, Academic/scientific professions,Employees,Full Time,110700,90000,20700,18.69918699
+2014, Intermediate professions,Employees,Full Time,96000,72000,24000,25
+2014, Administrative staff,Employees,Full Time,80500,70300,10200,12.67080745
+2014, Service and sales staff,Employees,Full Time,67600,54000,13600,20.1183432
+2014, Farmers,Employees,Full Time,65000,57700,7300,11.23076923
+2014, Craftsmen and skilled workers,Employees,Full Time,71500,57200,14300,20
+2014, Drivers and fitters,Employees,Full Time,71600,53700,17900,25
+2014, Unskilled workers,Employees,Full Time,63100,50600,12500,19.80982567
+2014," Executives, senior managers",Employees,Part Time,71300,55900,15400,21.59887798
+2014, Academic/scientific professions,Employees,Part Time,65400,52200,13200,20.18348624
+2014, Intermediate professions,Employees,Part Time,51100,43900,7200,14.09001957
+2014, Administrative staff,Employees,Part Time,37500,39400,-1900,-5.066666667
+2014, Service and sales staff,Employees,Part Time,22300,24700,-2400,-10.76233184
+2014, Farmers,Employees,Part Time,13600,35900,-22300,-163.9705882
+2014, Craftsmen and skilled workers,Employees,Part Time,43200,31100,12100,28.00925926
+2014, Drivers and fitters,Employees,Part Time,29900,26000,3900,13.04347826
+2014, Unskilled workers,Employees,Part Time,13600,15100,-1500,-11.02941176
+2013," Executives, senior managers",Self Employed,Full Time,96000,55000,41000,42.70833333
+2013, Academic/scientific professions,Self Employed,Full Time,120000,85000,35000,29.16666667
+2013, Intermediate professions,Self Employed,Full Time,90000,72000,18000,20
+2013, Administrative staff,Self Employed,Full Time,88600,64800,23800,26.86230248
+2013, Service and sales staff,Self Employed,Full Time,65000,50000,15000,23.07692308
+2013, Farmers,Self Employed,Full Time,57100,38000,19100,33.45008757
+2013, Craftsmen and skilled workers,Self Employed,Full Time,73100,46100,27000,36.93570451
+2013, Drivers and fitters,Self Employed,Full Time,70800,,70800,
+2013, Unskilled workers,Self Employed,Full Time,62000,38600,23400,37.74193548
+2013," Executives, senior managers",Self Employed,Part Time,56500,49200,7300,12.92035398
+2013, Academic/scientific professions,Self Employed,Part Time,50000,38600,11400,22.8
+2013, Intermediate professions,Self Employed,Part Time,41600,26000,15600,37.5
+2013, Administrative staff,Self Employed,Part Time,50000,26400,23600,47.2
+2013, Service and sales staff,Self Employed,Part Time,37100,20000,17100,46.0916442
+2013, Farmers,Self Employed,Part Time,31900,20000,11900,37.30407524
+2013, Craftsmen and skilled workers,Self Employed,Part Time,35000,19000,16000,45.71428571
+2013, Drivers and fitters,Self Employed,Part Time,35000,15200,19800,56.57142857
+2013, Unskilled workers,Self Employed,Part Time,45500,19000,26500,58.24175824
+2013," Executives, senior managers",Employees,Full Time,132000,104000,28000,21.21212121
+2013, Academic/scientific professions,Employees,Full Time,112000,89700,22300,19.91071429
+2013, Intermediate professions,Employees,Full Time,95900,72000,23900,24.92179353
+2013, Administrative staff,Employees,Full Time,78000,70300,7700,9.871794872
+2013, Service and sales staff,Employees,Full Time,69600,52900,16700,23.99425287
+2013, Farmers,Employees,Full Time,65000,54600,10400,16
+2013, Craftsmen and skilled workers,Employees,Full Time,71500,56400,15100,21.11888112
+2013, Drivers and fitters,Employees,Full Time,71600,52700,18900,26.39664804
+2013, Unskilled workers,Employees,Full Time,62000,46800,15200,24.51612903
+2013," Executives, senior managers",Employees,Part Time,65000,56300,8700,13.38461538
+2013, Academic/scientific professions,Employees,Part Time,69600,51300,18300,26.29310345
+2013, Intermediate professions,Employees,Part Time,48100,41200,6900,14.34511435
+2013, Administrative staff,Employees,Part Time,34600,38400,-3800,-10.98265896
+2013, Service and sales staff,Employees,Part Time,23700,25200,-1500,-6.329113924
+2013, Farmers,Employees,Part Time,24000,15000,9000,37.5
+2013, Craftsmen and skilled workers,Employees,Part Time,50000,28200,21800,43.6
+2013, Drivers and fitters,Employees,Part Time,28600,27400,1200,4.195804196
+2013, Unskilled workers,Employees,Part Time,13300,16500,-3200,-24.06015038
+2012," Executives, senior managers",Self Employed,Full Time,100000,57600,42400,42.4
+2012, Academic/scientific professions,Self Employed,Full Time,120000,83100,36900,30.75
+2012, Intermediate professions,Self Employed,Full Time,94500,69000,25500,26.98412698
+2012, Administrative staff,Self Employed,Full Time,78000,60000,18000,23.07692308
+2012, Service and sales staff,Self Employed,Full Time,70000,52600,17400,24.85714286
+2012, Farmers,Self Employed,Full Time,55100,31900,23200,42.10526316
+2012, Craftsmen and skilled workers,Self Employed,Full Time,78300,45500,32800,41.89016603
+2012, Drivers and fitters,Self Employed,Full Time,60900,48000,12900,21.18226601
+2012, Unskilled workers,Self Employed,Full Time,66400,48000,18400,27.71084337
+2012," Executives, senior managers",Self Employed,Part Time,60000,40000,20000,33.33333333
+2012, Academic/scientific professions,Self Employed,Part Time,48600,36000,12600,25.92592593
+2012, Intermediate professions,Self Employed,Part Time,37500,30000,7500,20
+2012, Administrative staff,Self Employed,Part Time,48000,25400,22600,47.08333333
+2012, Service and sales staff,Self Employed,Part Time,31900,19000,12900,40.43887147
+2012, Farmers,Self Employed,Part Time,40000,19000,21000,52.5
+2012, Craftsmen and skilled workers,Self Employed,Part Time,30700,30000,700,2.280130293
+2012, Drivers and fitters,Self Employed,Part Time,58000,10000,48000,82.75862069
+2012, Unskilled workers,Self Employed,Part Time,24000,18300,5700,23.75
+2012," Executives, senior managers",Employees,Full Time,127000,109200,17800,14.01574803
+2012, Academic/scientific professions,Employees,Full Time,114300,88700,25600,22.39720035
+2012, Intermediate professions,Employees,Full Time,94900,75000,19900,20.96944152
+2012, Administrative staff,Employees,Full Time,78300,68900,9400,12.00510856
+2012, Service and sales staff,Employees,Full Time,70200,52900,17300,24.64387464
+2012, Farmers,Employees,Full Time,65000,54000,11000,16.92307692
+2012, Craftsmen and skilled workers,Employees,Full Time,71600,54600,17000,23.74301676
+2012, Drivers and fitters,Employees,Full Time,70200,51900,18300,26.06837607
+2012, Unskilled workers,Employees,Full Time,62000,48800,13200,21.29032258
+2012," Executives, senior managers",Employees,Part Time,65000,57200,7800,12
+2012, Academic/scientific professions,Employees,Part Time,63100,50900,12200,19.33438986
+2012, Intermediate professions,Employees,Part Time,46200,41600,4600,9.956709957
+2012, Administrative staff,Employees,Part Time,38300,39000,-700,-1.82767624
+2012, Service and sales staff,Employees,Part Time,24700,24700,,
+2012, Farmers,Employees,Part Time,15600,18000,-2400,-15.38461538
+2012, Craftsmen and skilled workers,Employees,Part Time,50000,27300,22700,45.4
+2012, Drivers and fitters,Employees,Part Time,29300,26400,2900,9.897610922
+2012, Unskilled workers,Employees,Part Time,18300,15600,2700,14.75409836
